@@ -34,11 +34,11 @@ const Contact = () => {
                         <div className="space-y-4">
                             <div className="flex items-center space-x-4 text-gray-300">
                                 <div className="p-3 glass-panel rounded-full text-cyber-blue"><Mail size={20} /></div>
-                                <span>anuj.rawat@example.com</span>
+                                <span>anujrwt08@gmail.com</span>
                             </div>
                             <div className="flex items-center space-x-4 text-gray-300">
                                 <div className="p-3 glass-panel rounded-full text-neon-purple"><Phone size={20} /></div>
-                                <span>+91 98765 43210</span>
+                                <span>+91 88512 12345</span>
                             </div>
                             <div className="flex items-center space-x-4 text-gray-300">
                                 <div className="p-3 glass-panel rounded-full text-cyber-blue"><MapPin size={20} /></div>
@@ -47,7 +47,7 @@ const Contact = () => {
                             <div className="flex items-center space-x-4 text-gray-300">
                                 <div className="p-3 glass-panel rounded-full text-neon-purple"><Linkedin size={20} /></div>
                                 <a href="https://www.linkedin.com/in/anujrawat08/" target="_blank" rel="noopener noreferrer" className="hover:text-cyber-blue transition-colors">
-                                    linkedin.com/in/anujrawat08
+                                    anujrawat08
                                 </a>
                             </div>
                         </div>

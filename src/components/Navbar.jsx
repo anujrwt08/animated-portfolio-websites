@@ -21,7 +21,7 @@ const Navbar = () => {
           <div className="flex-shrink-0 flex items-center cursor-pointer">
             <Shield className="w-8 h-8 text-cyber-blue mr-2 animate-pulse-fast" />
             <span className="text-xl font-bold tracking-wider text-white">
-              ANUJ<span className="text-cyber-blue">.SEC</span>
+              ANUJ<span className="text-cyber-blue"> RAWAT</span>
             </span>
           </div>
           
